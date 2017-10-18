@@ -1,0 +1,7 @@
+#surefire
+#Wed Oct 18 23:48:27 EEST 2017
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\makis\\Documents\\NetBeansProjects\\NetbeansAtWork\\ShortestPathChessboard
+file.encoding=UTF-8
+localRepository=C\:\\Users\\makis\\.m2\\repository
+basedir=C\:\\Users\\makis\\Documents\\NetBeansProjects\\NetbeansAtWork\\ShortestPathChessboard
